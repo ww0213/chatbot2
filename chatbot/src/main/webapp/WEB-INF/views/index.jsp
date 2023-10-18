@@ -31,7 +31,7 @@
             document.getElementById('userInput').value = '';
         }
         
-        // 新增的關閉連線函數
+       
         function closeConnection() {
             if(stompClient !== null) {
                 stompClient.disconnect();
