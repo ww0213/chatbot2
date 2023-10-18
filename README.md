@@ -1,4 +1,7 @@
-# chatbot_Springboot
+# Dialogflow API Spring chatbot
+介紹:  
+本專案使用Spring boot ,MVC架構完成的chatbot。  
+前端使用Spring Framework Websocket 做成的聊天室。  
 Setup:  
 使用Google Cloud Console建立一個項目，並啟用Dialogflow API。  
 設定身份驗證。例如，從 Cloud Console 建立一個服務帳號，下載其 json 憑證文件  
